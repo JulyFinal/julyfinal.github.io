@@ -1,0 +1,18 @@
+# save list
+
+## 健康
+
+* [脊柱侧弯的自我治疗](https://sspai.com/post/72898) [saved](https://web.archive.org/web/20220912102355/https://sspai.com/post/72898)
+
+## ML
+* [分享几个 Sklearn 模块中不为人知又超级好用的 API 函数](https://mp.weixin.qq.com/s?__biz=Mzg4NDQwNTI0OQ==&mid=2247559171&idx=2&sn=246063f391f077da93819c513e142786&chksm=cfbb0d6df8cc847beaf4b1eaf2c1bd48f62a20ec22274db0b2fbe78b81757166375933b6e77f#rd) saved
+* [（五）通俗易懂理解——BiLSTM](https://zhuanlan.zhihu.com/p/40119926) saved
+* [神经网络主要类型及其应用](https://zhuanlan.zhihu.com/p/159305118) saved
+* [漫谈：机器学习中距离和相似性度量方法](https://www.cnblogs.com/daniel-D/p/3244718.html)
+* [模型选择的一些基本思想和方法](https://cosx.org/2015/08/some-basic-ideas-and-methods-of-model-selection/)
+* [使用sklearn做单机特征工程](https://www.cnblogs.com/jasonfreak/p/5448385.html)
+* [使用sklearn优雅地进行数据挖掘](https://www.cnblogs.com/jasonfreak/p/5448462.html)
+
+## Dev
+* balena 树莓派
+* 
