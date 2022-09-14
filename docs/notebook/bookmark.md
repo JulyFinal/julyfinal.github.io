@@ -34,8 +34,9 @@
 ## Temp Email
 * [smailpro](https://smailpro.com/advanced)  Gmail临时邮箱
 
-## Epub
+## Read
 * [Neat-Reader](https://www.neat-reader.cn/webapp#) 在线EPUB阅读器
+* [阅读3.0](https://gedoor.github.io) 仅安卓 iOS暂停
 
 ## English
 
