@@ -6,7 +6,7 @@
 systemctl stop reflector.service # 禁止自动选择源
 ls /sys/firmware/efi/efivars # 检查是否进入UEFI模式
 
-# 网络
+# 无线网络
 iwctl #执行iwctl命令，进入交互式命令行 
 device list #列出设备名，比如无线网卡看到叫 wlan0 
 station wlan0 scan #扫描网络 
@@ -32,7 +32,7 @@ mkfs.btrfs nvme0n1p2
 
 # mount
 mount -t btrfs -o ssd /dev/nvme0n1p2 /mnt
-mount /dev/nvme0n1p1 /mnt/boot
+mount /dev/nvme0n1p1 /mnt/boot
 
 # 设置镜像地址
 /etc/pacman.d/mirrorlist
@@ -45,15 +45,10 @@ Server = https://mirrors.cat.net/archlinux/$repo/os/$arch
 
 # 预放入包程序
 pacstrap /mnt base base-devel linux linux-headers linux-firmware
-
-pacstrap /mnt sudo neovim vi dhcpcd wpa_supplicant networkmanager 
+pacstrap /mnt sudo zsh neovim vi dhcpcd wpa_supplicant networkmanager # 网络无线
 pacstrap /mnt bluez bluez-utils # 蓝牙
-pacstrap /mnt dolphin konsole yakuake sddm ranger kate
 
 # 可选
-xf86-video-intel
-plasma-meta
-firefox
 
 # 写入卷标
 genfstab -U /mnt >> /mnt/etc/fstab
@@ -94,7 +89,6 @@ passwd final
 # 安装微码
 pacman -S intel-ucode
 
-
 # 设置grub
 pacman -S grub efibootmgr
 grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
@@ -103,7 +97,6 @@ grub-mkconfig -o /boot/grub/grub.cfg
 
 mkinitcpio -P
 
-
 # 设置服务
 systemctl enable dhcpcd
 systemctl enable wpa_supplicant
@@ -111,7 +104,6 @@ systemctl enable NetworkManager
 systemctl enable bluetooth
 systemctl enable --now bluetooth
 
-systemctl enable sddm
 ## 优化SSD
 systemctl enable fstrim.timer
 
@@ -120,21 +112,32 @@ systemctl enable fstrim.timer
 umount -R /mnt
 
 ```
-- ## 可选
+
+
+## 安装后
+
+### 可选
   
   ```bash
   sudo pacman -S sof-firmware alsa-firmware alsa-ucm-conf #一些可能需要的声音固件 
   sudo pacman -S ntfs-3g #识别NTFS格式的硬盘 
   sudo pacman -S adobe-source-han-serif-cn-fonts wqy-zenhei #安装几个开源中文字体 一般装上文泉驿就能解决大多wine应用中文方块的问题 
   sudo pacman -S noto-fonts-cjk noto-fonts-emoji noto-fonts-extra #安装谷歌开源字体及表情 
-  sudo pacman -S firefox chromium #安装常用的火狐、谷歌浏览器 
-  sudo pacman -S ark #与dolphin同用右键解压 s
+  sudo pacman -S firefox #安装火狐浏览器
+  sudo pacman -S ark #与dolphin同用右键解压
   sudo pacman -S p7zip unrar unarchiver lzop lrzip #安装ark可选依赖 
   sudo pacman -S packagekit-qt5 packagekit appstream-qt appstream #确保Discover(软件中心）可用 需重启 
   sudo pacman -S gwenview #图片查看器 
+  sudo pacman -S xf86-video-intel plasma-meta firefox
+  sudo pacman -S dolphin konsole yakuake # 文件管理器 命令行 下拉式命令行
   sudo pacman -S git wget kate bind #一些工具
   ```
   
+  ```bash
+  sudo pacman -S sddm
+  systemctl enable sddm
+  ````
+
   ```bash
   /etc/resolv.conf
   
@@ -151,7 +154,7 @@ umount -R /mnt
   # 核心显卡
   sudo pacman -S mesa lib32-mesa vulkan-intel lib32-vulkan-intel
   ```
-## 安装后
+
 ### YAY
 ```
 # yay 配置
@@ -181,7 +184,7 @@ rm -rf yay
 ```shell
 sudo pacman -S proxychains-ng
 ```
-### GIT
+### GIT UI
 ```bash
 sudo pacman -S lazygit
 ```
@@ -214,10 +217,12 @@ exec_always --no-startup-id fcitx5
 
 fcitx5 &
 ```
+
 ### GFW
 ```shell
 yay -S clash-for-windows-bin
 ```
+
 ### 虚拟机
 需要提前了解linux的核心版本
 ```shell
@@ -237,15 +242,14 @@ $ yay virtualbox-ext-oracle
 
 sudo gpasswd -a $USER vboxusers
 ```
+
 ### 编程环境
-#### Neovim
-```
-sudo pacman -S xsel
-```
+
 ### WPS
 ```text
 yay -S wps-office wps-office-mui-zh-cn ttf-wps-fonts
 ```
+
 ### UniVPN
 ```shell
 sudo -i
