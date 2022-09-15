@@ -4,6 +4,7 @@
 
 * [itch.io](https://itch.io)  独立游戏平台
 * [WeMod](https://www.wemod.com/zh) 免费的游戏修改器
+* [WOT Cloud Game](https://play.wot.360.cn/yun.html?pub_id=wot_cover#/!)
 
 ## Book
 * [DigiLibraries](https://digilibraries.com/)  数字图书馆
@@ -21,6 +22,16 @@
 * [中国国家图书馆](http://www.nlc.cn/) 
 * [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/) 
 * [学习猫](https://learncat.cn/home) 
+
+## RSS subscribe
+* [blogtrottr](https://blogtrottr.com/subscriptions/)
+* [feedrabbit](https://feedrabbit.com/)
+
+## Music
+* [Apple Music](https://beta.music.apple.com/cn/listen-now?l=zh-Hans-CN)
+
+## Mail
+* [iCloud Mail](https://www.icloud.com.cn/mail/)
 
 ## ScriptHub
 
