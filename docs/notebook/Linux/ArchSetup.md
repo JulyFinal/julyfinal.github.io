@@ -194,6 +194,8 @@ git config --global user.name julyfinal
 git config --global user.email julyfinal@outlook.com
 # git config --global http.proxy socks5://127.0.0.1:7890
 # git config --global https.proxy socks5://127.0.0.1:7890
+
+git pull origin master --allow-unrelated-histories # git clone into Not Empty directory
 ```
 ### 输入法
 
