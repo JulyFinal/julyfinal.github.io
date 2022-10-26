@@ -1,22 +1,30 @@
 # Final's Note Space
 
-## 页面导航
-
+## Archive
 
 * [书签](archive/bookmark.md)
-* [书籍](archive/booklist.md)
-* [软件](archive/FavoritesAPP.md)
-& [想法](think/think.md)
+* [书单](archive/booklist.md)
+* [关注的APP](archive/FavoritesAPP.md)
 
-## DataScience
+### Anime
+
+* [GUNDAM](archive/anime/gundam.md)
+
+
+## Study
+
+### DataScience
 
 * [课程](study/DataScience/Coursea.md)
 
-## Development
-
-## Linux
+### Linux
 
 * [ArchSetup](study/Linux/ArchSetup.md)
 
 
+## Think
 
+* [想法](think/think.md)
+
+
+## Write
