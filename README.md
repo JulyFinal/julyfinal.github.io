@@ -10,5 +10,6 @@ Final的个人笔记空间
 2. 理解感受
 3. 存档
 
+学习，将记录我全部的学习内容
 
 Powered By Docsify
