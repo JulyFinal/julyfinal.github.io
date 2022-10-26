@@ -3,20 +3,20 @@
 ## 页面导航
 
 
-* [书签](./notebook/bookmark.md)
-* [书籍](./notebook/booklist.md)
-* [软件](./notebook/FavoritesAPP.md)
-& [想法](./notebook/think.md)
+* [书签](archive/bookmark.md)
+* [书籍](archive/booklist.md)
+* [软件](archive/FavoritesAPP.md)
+& [想法](think/think.md)
 
 ## DataScience
 
-* [课程](./notebook/DataScience/Coursea.md)
+* [课程](study/DataScience/Coursea.md)
 
 ## Development
 
 ## Linux
 
-* [ArchSetup](./notebook/Linux/ArchSetup.md)
+* [ArchSetup](study/Linux/ArchSetup.md)
 
 
 
