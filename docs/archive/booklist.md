@@ -4,13 +4,13 @@
 ## 产品
 
 
-1. [<<Shape Up>>]https://basecamp.com/shapeup/webbook -> 中文版 [《塑造》](https://p-c8wi.tower.im/p/54rp)
+1. [\<\<Shape Up\>\>]https://basecamp.com/shapeup/webbook -> 中文版 [《塑造》](https://p-c8wi.tower.im/p/54rp)
 
 
 ## 开发/编程
 1. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)   Python数据分析（第三版）
 2. [设计模式](https://refactoringguru.cn/design-patterns/catalog) 
-3. [wtfpython](https://github.com/leisurelicht/wtfpython-cn) python教程
+3. [WTFPython](https://github.com/leisurelicht/wtfpython-cn) python教程
 4. [计算机程序设计艺术](https://zh.wikipedia.org/wiki/计算机程序设计艺术)
 
 
