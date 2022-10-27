@@ -24,7 +24,7 @@
 
 ## Think
 
-* [想法](think/think.md)
+* [想法](think/README.md)
 
 
 ## Write
