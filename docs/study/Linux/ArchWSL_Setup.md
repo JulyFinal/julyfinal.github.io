@@ -32,3 +32,18 @@ PS:
 New-NetFirewallRule -DisplayName "WSL" -Direction Inbound  -InterfaceAlias "vEthernet (WSL)"  -Action Allow
 ```
 
+# 自动获取主机IP
+
+```bash
+chmod 777 /etc/hosts
+
+cat >> ~/.profile <<EOF
+windows_ip=`grep -oP '(?<=nameserver ).+' /etc/resolv.conf`
+if [ "`grep windows /etc/hosts`" ]; then
+        sed -i "s/.*windows/$windows_ip windows/" /etc/hosts
+else
+        echo $windows_ip windows >> /etc/hosts
+fi
+EOF
+
+```
