@@ -4,7 +4,9 @@
 
 * [itch.io](https://itch.io)  独立游戏平台
 * [WeMod](https://www.wemod.com/zh) 免费的游戏修改器
+* [XCloud](https://www.xbox.com/en-US/play) xbox cloud
 * [WOT Cloud Game](https://play.wot.360.cn/yun.html?pub_id=wot_cover#/!)
+* [极云普惠](https://www.ji-cloud.cn/) 云游戏
 
 ## Book
 * [DigiLibraries](https://digilibraries.com/)  数字图书馆
@@ -22,15 +24,18 @@
 * [中国国家图书馆](http://www.nlc.cn/) 
 * [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/) 
 * [学习猫](https://learncat.cn/home) 
+* [网络小说下载](https://www.huangdizhijia.com/index.html) 也可以在线阅读
 
 ## RSS subscribe
 * [blogtrottr](https://blogtrottr.com/subscriptions/)
 * [feedrabbit](https://feedrabbit.com/)
+* [feeded](https://freshrss.feeded.xyz/i/) 一位博主自建搭建的freshrss 方便订阅rsshub的源
 
 ## Music
 * [Apple Music](https://beta.music.apple.com/cn/listen-now?l=zh-Hans-CN)
 
 ## Mail
+
 * [iCloud Mail](https://www.icloud.com.cn/mail/)
 
 ## ScriptHub
@@ -48,6 +53,7 @@
 ## Read
 * [Neat-Reader](https://www.neat-reader.cn/webapp#) 在线EPUB阅读器
 * [阅读3.0](https://gedoor.github.io) 仅安卓 iOS暂停
+* [在线小说阅读](https://reader.htmake.com) 在线小说阅读网站
 
 ## English
 
@@ -72,6 +78,7 @@
 
 
 ## Typing Practice
+
 * [Qwerty Learner](https://qwerty.kaiyi.cool) 在线打字练习，还可以学单词
 * [typelit](https://www.typelit.io) 在线打字练习，可选英文名著打字
 
@@ -126,6 +133,7 @@
 * [The registry for Kubernetes Operators](https://operatorhub.io/operator/spark-gcp)  k8s仓库
 * [Artifact Hub](https://artifacthub.io/)  helm编排仓库
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) 5Min入门一门编程语言
+* [openfrp](https://www.openfrp.net/) 免费的frp
 
 
 ## BT
@@ -134,7 +142,6 @@
 * [Nyaa](https://nyaa.si)  二次元BT
 * [RARBG](https://rarbgprx.org/torrents.php) 主流电影电视剧BT
 * [KISSSUB](https://kisssub.org) 国内二次元BT
-
 
 
 ## MineBook
