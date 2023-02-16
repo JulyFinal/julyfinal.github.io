@@ -169,22 +169,3 @@
 
 * [nixos-config](https://github.com/bobby285271/nixos-config)
 
-## 收藏的仓库
-
-* [playwright](https://github.com/microsoft/playwright-python) 自动化爬虫代码生成工具
-* [autoscraper](https://github.com/alirezamika/autoscraper) 自动爬虫
-* [Layout-Parser](https://github.com/Layout-Parser/layout-parser) PDF/图片 布局识别生成
-* [neural_prophet](https://github.com/ourownstory/neural_prophet) prophet算法 NN版
-* [Merlion](https://github.com/salesforce/Merlion) TS
-* [kats](https://github.com/facebookresearch/Kats) TS
-* [https://github.com/linkedin/greykite](https://github.com/linkedin/greykite)
-* [Ciphey](https://github.com/Ciphey/Ciphey) 密码破解
-* [scalene](https://github.com/plasma-umass/scalene) 代码分析工具
-* [medium-unlimited](https://github.com/manojVivek/medium-unlimited) medium 解锁
-* [python 面试](https://github.com/kenwoodjw/python_interview_question)
-* [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
-* [python_docx](https://github.com/kmrambo/Python-docx-Reading-paragraphs-tables-and-images-in-document-order-) python docx 解析
-* [签到](https://github.com/qiandao-today/qiandao) 签到框架
-* [浏览器导出](https://github.com/moonD4rk/HackBrowserDat)
-* [cnblogs-theme](https://github.com/Zou-Wang/CNblogs-Theme-Sakura)
-* [cnblogs-theme](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v2/#/)
