@@ -93,8 +93,8 @@
 
 ## Online Coding
 
-* [diagrams](https://colab.research.google.com) Goole的Jupyter Notebook
-* [diagrams](https://www.jdoodle.com) 简洁的在线编程环境，有Haskell
+* [colab](https://colab.research.google.com) Goole的Jupyter Notebook
+* [jdoodle](https://www.jdoodle.com) 简洁的在线编程环境，有Haskell
 * [replit](https://replit.com) 美观的在线编程环境，有Haskell
 * [databricks](https://community.cloud.databricks.com/login.html) 在线的大数据编程平台，有Spark
 
