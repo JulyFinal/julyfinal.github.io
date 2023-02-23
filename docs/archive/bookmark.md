@@ -1,4 +1,4 @@
-# AWESOME SITE
+# AWESOME SITcivitaiE
 
 ## Game
 
@@ -6,7 +6,6 @@
 * [WeMod](https://www.wemod.com/zh) 免费的游戏修改器
 * [XCloud](https://www.xbox.com/en-US/play) xbox cloud
 * [WOT Cloud Game](https://play.wot.360.cn/yun.html?pub_id=wot_cover#/!)
-* [极云普惠](https://www.ji-cloud.cn/) 云游戏
 
 ## Book
 * [DigiLibraries](https://digilibraries.com/)  数字图书馆
@@ -33,6 +32,7 @@
 
 ## Music
 * [Apple Music](https://beta.music.apple.com/cn/listen-now?l=zh-Hans-CN)
+* [Netease Music](https://music.163.com/)
 
 ## Mail
 
@@ -169,3 +169,16 @@
 
 * [nixos-config](https://github.com/bobby285271/nixos-config)
 
+## AI Image
+* [civitai](https://civitai.com/)
+## ChatGPT
+* [ChatGPT](https://chat.openai.com/chat)
+
+
+## Hide
+* [资源索引](https://iptvindex.com/)
+* [](https://kp.m-team.cc/index.php)
+* [](https://u2.dmhy.org/)
+* [xmrth](https://xmrth.net/)
+* [STT](https://stt.today/)
+* [](http://e0s8.com:2048/)
