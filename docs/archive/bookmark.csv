@@ -1,0 +1,102 @@
+tag,name,site_url,info
+Game,itch.io,https://itch.io,  独立游戏平台
+Game,WeMod,https://www.wemod.com/zh, 免费的游戏修改器
+Game,XCloud,https://www.xbox.com/en-US/play, xbox cloud
+Game,WOT Cloud Game,https://play.wot.360.cn/yun.html?pub_id=wot_cover#/!,
+Book,DigiLibraries,https://digilibraries.com/,  数字图书馆
+Book,Gutenberg,https://www.gutenberg.org/,  古滕堡图书
+Book,好讀,http://haodoo.net/?tdsourcetag=s_pctim_aiomsg,  台湾经典书籍
+Book,图书导航 | 书享家-电子书下载导航,http://shuxiangjia.cn/, 
+Book,图书资源 | 苦瓜书盘,https://kgbook.com/, 
+Book,图书资源 | 数字图书馆,https://zh.b-ok.global/, 
+Book,图书搜索 | 鸠摩搜索,https://www.jiumodiary.com/, 
+Book,图书资源 | SoBooks,https://sobooks.cc/, 
+Book,图书搜索 | 快搜,https://search.chongbuluo.com/, 
+Book,漫画资源 | Mox.moe [Kindle漫畫|Kobo漫畫|epub漫畫] [mox.moe],https://mox.moe/, 
+Book,Page | ACM Digital Library,https://dl.acm.org/, 
+Book,Page | semanticscholar,https://www.semanticscholar.org/, 
+Book,中国国家图书馆,http://www.nlc.cn/, 
+Book,全国图书馆参考咨询联盟,http://www.ucdrs.superlib.net/, 
+Book,学习猫,https://learncat.cn/home, 
+Book,网络小说下载,https://www.huangdizhijia.com/index.html, 也可以在线阅读
+RSS subscribe,blogtrottr,https://blogtrottr.com/subscriptions/,
+RSS subscribe,feedrabbit,https://feedrabbit.com/,
+RSS subscribe,feeded,https://freshrss.feeded.xyz/i/, 一位博主自建搭建的freshrss 方便订阅rsshub的源
+Music,Apple Music,https://beta.music.apple.com/cn/listen-now?l=zh-Hans-CN,
+Music,Netease Music,https://music.163.com/,
+Mail,iCloud Mail,https://www.icloud.com.cn/mail/,
+ScriptHub,Greasy Fork,https://greasyfork.org/zh-CN,  油猴脚本
+ScriptHub,Sleazy Fork,https://sleazyfork.org/zh-CN, 油猴脚本 #NSFW
+AirDrop,musetransfer,https://musetransfer.com, 免费的传输工具
+AirDrop,airportal,https://airportal.cn, 免费的传输工具
+Temp Email,smailpro,https://smailpro.com/advanced,  Gmail临时邮箱
+Read,Neat-Reader,https://www.neat-reader.cn/webapp#, 在线EPUB阅读器
+Read,阅读3.0,https://gedoor.github.io, 仅安卓 iOS暂停
+Read,在线小说阅读,https://reader.htmake.com, 在线小说阅读网站
+English,ludwig,https://ludwig.guru, 英文选词比较
+English,linggle,https://linggle.com, 英文短语查询
+English,Language Reactor,https://www.languagereactor.com/, 
+English,English | Speak | YouTube,https://youglish.com/,
+Chinese,据意查句,https://wantquotes.net,
+Regex,regex-vis,https://regex-vis.com, 正则语法分析（比下面好看）
+Regex,Regexper,https://regexper.com,  正则语法分析
+Regex,Regex101,https://regex101.com,  正则测试（中文不支持）
+JSON,jsonvisio,https://jsoncrack.com/editor, 在线JSON格式化，有[本地化版本](https://github.com/AykutSarac/jsoncrack.com)
+JSON,jsonhero,https://jsonhero.io, JSON分层格式化
+Typing Practice,Qwerty Learner,https://qwerty.kaiyi.cool, 在线打字练习，还可以学单词
+Typing Practice,typelit,https://www.typelit.io, 在线打字练习，可选英文名著打字
+Convert,Free Online File Converter,https://www.online-convert.com, 免费的在线文件转换工具
+Note,氢图,https://qingtu.co, 信息图谱，可视化记录与思考
+Online Coding,colab,https://colab.research.google.com, Goole的Jupyter Notebook
+Online Coding,jdoodle,https://www.jdoodle.com, 简洁的在线编程环境，有Haskell
+Online Coding,replit,https://replit.com, 美观的在线编程环境，有Haskell
+Online Coding,databricks,https://community.cloud.databricks.com/login.html, 在线的大数据编程平台，有Spark
+Diagram,diagrams,https://app.diagrams.net, 在线绘图
+Design,鸭力巨大,https://www.yalijuda.com,  图片/视频压缩工具
+Design,抠图,https://www.gaoding.com/koutu,  智能抠图
+Design,iconfont,https://www.iconfont.cn, 矢量图标
+Design,Unsplash,https://unsplash.com,  图片素材
+Design,Dribbble,https://dribbble.com/shots,  配色参考
+Design,Pinterest,https://www.pinterest.com, 排版参考
+Design,Adobe Color,https://color.adobe.com/zh/create/color-wheel, 色輪調色
+Design,Pixabay,https://pixabay.com, 图片素材
+Design,icons8,https://icons8.com, 免费素材
+Design,Bigjpg,https://bigjpg.com, 图片放大
+Design,SM.MS,https://sm.ms/login,  图床
+Design,Awesome Wallpapers,https://wallhaven.cc,  壁纸
+Design,Magic Eraser,https://www.magiceraser.io,  删除物体
+Design,PhotoFunia,https://photofunia.com/cn/, 在线免费图片编辑器，带有图片效果和照片滤镜库
+DataFocus,Towards Data Science,https://towardsdatascience.com/,  数据科学
+DataFocus,199IT,http://www.199it.com/, 国内数据分析报告
+Development,Vercel,https://vercel.com/dashboard,  免费的微服务部署
+Development,Zapier,https://zapier.com/app/dashboard,  免费的自动化工作流
+Development,Python Extension Packages for Windows,https://www.lfd.uci.edu/~gohlke/pythonlibs/,"  常用Python的二进制编译, 针对Windows"
+Development,The registry for Kubernetes Operators,https://operatorhub.io/operator/spark-gcp,  k8s仓库
+Development,Artifact Hub,https://artifacthub.io/,  helm编排仓库
+Development,Learn X in Y Minutes,https://learnxinyminutes.com/, 5Min入门一门编程语言
+Development,openfrp,https://www.openfrp.net/, 免费的frp
+BT,Sukebei Nyaa,https://sukebei.nyaa.si, 二次元BT #NSFW
+BT,Nyaa,https://nyaa.si,  二次元BT
+BT,RARBG,https://rarbgprx.org/torrents.php, 主流电影电视剧BT
+BT,KISSSUB,https://kisssub.org, 国内二次元BT
+MineBook,AVohayo,http://avohayo.blog.fc2.com, #NSFW
+MineBook,阿米巴论坛,https://rosonclub.com/forum.php, #NSFW
+MineBook,真白萌论坛,https://masiro.moe, 
+MineBook,GALGameCG,http://h723.blog.fc2.com, #NSFW
+MineBook,141JJ导航,https://141jj.com, #NSFW
+MineBook,绅士仓库网址发布页,https://galacg.github.io, #NSFW
+MineBook,nhentai,https://nhentai.net, #NSFW
+MineBook,DLsite,https://www.dlsite.com/index.html, #NSFW
+MineBook,SouthPlus,https://www.south-plus.net, #NSFW
+MineBook,e-hentai exhentai similar site,https://typecurry.com/7239-e-hentai-exhentai-similar-site/, #NSFW
+Emacs,Master Emacs in 21 Days,https://book.emacs-china.org/#orge6d993e,
+Haskell,learnhaskell,https://github.com/bitemyapp/learnhaskell,
+NixOS,nixos-config,https://github.com/bobby285271/nixos-config,
+AI Image,civitai,https://civitai.com/,
+ChatGPT,ChatGPT,https://chat.openai.com/chat,
+Hide,资源索引,https://iptvindex.com/,
+Hide,mteam,https://kp.m-team.cc/index.php,
+Hide,dmhy,https://u2.dmhy.org/,
+Hide,xmrth,https://xmrth.net/,
+Hide,STT,https://stt.today/,
+Hide,sht,http://e0s8.com:2048/,
