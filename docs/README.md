@@ -1,15 +1,11 @@
 # Final's Note Space
 
-## Archive
+## [Archive](./archive/)
 
 * [收藏的一些东西](archive/save_list.md)
 
-### Anime
 
-* [GUNDAM](archive/anime/gundam.md)
-
-
-## Study
+## [Study](./study/)
 
 ### DataScience
 
@@ -20,10 +16,7 @@
 * [ArchSetup](study/Linux/ArchSetup.md)
 
 
-## Think
+## [Think](./think/)
 
 * [想法](think/README.md)
-
-
-## Write
 
