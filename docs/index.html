@@ -29,6 +29,9 @@
         responsiveTables: true  // default
       },
       search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto', // or 'auto'
+        placeholder: 'Type to search',
         noData: 'No Results!',
         depth: 6,
         hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
