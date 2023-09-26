@@ -1,6 +1,6 @@
 # Final's Note Space
 
-## [Archive](./archive/)
+## Archive
 
 * [收藏的一些东西](archive/save_list.md)
 
