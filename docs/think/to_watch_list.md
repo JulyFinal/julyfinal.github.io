@@ -15,3 +15,4 @@ SEED→ SEED DESTINY→观星者
 高达AGE，
 g- Reconquista，
 铁血的孤儿还准备有第二季
+

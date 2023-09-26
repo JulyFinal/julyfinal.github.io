@@ -2,9 +2,7 @@
 
 ## Archive
 
-* [书签](archive/bookmark.md)
-* [书单](archive/booklist.md)
-* [关注的APP](archive/FavoritesAPP.md)
+* [收藏的一些东西](archive/save_list.md)
 
 ### Anime
 
