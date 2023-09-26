@@ -5,7 +5,7 @@
 * [收藏的一些东西](archive/save_list.md)
 
 
-## [Study](./study/)
+## Study
 
 ### DataScience
 
@@ -16,7 +16,5 @@
 * [ArchSetup](study/Linux/ArchSetup.md)
 
 
-## [Think](./think/)
-
-* [想法](think/README.md)
+## Think
 
