@@ -55,8 +55,6 @@ tags: #收藏 #书籍
 
 ## 收藏的软件
 
-[Camelot](https://zhuanlan.zhihu.com/p/366190934) PDF提取表格
-
 [码前](https://www.devbefore.com/product) 设计
 
 
@@ -75,4 +73,8 @@ tags: #收藏 #书籍
 
 ## Dev
 * balena 树莓派
-* 
+
+## 静态网站部署
+
+* [Netlify](https://app.netlify.com/)
+
