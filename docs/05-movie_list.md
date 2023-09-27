@@ -24,4 +24,4 @@
 |2013年 |辉夜姬的物语/かぐや\_の物语/The Tale of Princess Kaguya |高勋 | |
 |2013年 |起风了/风立ちぬ/The Wind Rises |宫崎骏 | |
 |2014年 |记忆中的玛妮/思い出のマ\_ニ\_/When Marnie Was There |米林宏昌 | |
-|2016年 |红海龟/レッドタ\_トル ある岛の物语/La tortue rouge |迈克尔·度德威特 | |
+|2016年 |红海龟/レッドタ\_トル ある岛の物语/La tortue rogue |迈克尔·度德威特 | |
