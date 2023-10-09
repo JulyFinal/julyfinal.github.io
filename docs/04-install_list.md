@@ -1,6 +1,34 @@
 # Linux 问题常规收集
 
-## Git 问题
+
+# node npm nvm 
+
+使用nvm安装管理node
+
+
+## nvm
+
+从 `https://github.com/nvm-sh/nvm#installing-and-updating` 找到安装命令
+
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash`
+
+## node
+
+使用 `nvm ls` 可以列出可以安装的各种node版本
+
+`nvm install {node version}`  like `nvm install 18.14.1`
+
+
+# astro build my blog
+
+[原文教程](https://docs.astro.build/zh-cn/tutorial/0-introduction/)
+
+1. 安装node npm
+2. `npm create astro@latest`
+3. `npm run dev`
+
+
+# Git 问题
 
 ```bash
 # 当前env中的代理
@@ -42,6 +70,12 @@ systemd-resolve --status
 `ubuntu-drivers devices` 查看驱动版本
 
 `sudo ubuntu-drivers autoinstall` 或 `sudo apt install nvidia-driver-535` 自动安装驱动
+
+## fix driver
+
+1. sudo apt-get install dkms
+2. sudo dkms install -m nvidia -v 535.xxx.xx（NVIDIA版本号）
+
 
 
 ## cuda
