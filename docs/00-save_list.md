@@ -11,7 +11,7 @@ tags: [收藏] [书籍]
 
 ## 产品
 
-1. [<<Shape Up>>](https://basecamp.com/shapeup/webbook) -> 中文版 [《塑造》](https://p-c8wi.tower.im/p/54rp)
+1. [\<\<Shape Up\>\>](https://basecamp.com/shapeup/webbook) -> 中文版 [《塑造》](https://p-c8wi.tower.im/p/54rp)
 
 
 ## 开发/编程
