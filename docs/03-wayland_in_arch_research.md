@@ -1,6 +1,6 @@
 # Wayland 在 Arch 中的研究
 
-目前依然存在的问题有截图。
+目前依然存在的问题
 
 ```
 sudo pacman -S wlroots sway alacritty waybar wofi xorg-xwayland xorg-xlsclients qt5-wayland glfw-wayland bemenu-wayland otf-font-awesome

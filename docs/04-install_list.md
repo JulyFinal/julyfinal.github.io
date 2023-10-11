@@ -78,9 +78,9 @@ systemd-resolve --status
 
 
 
-## cuda
+# cuda
 
-### install
+## install
 
 查看GCC版本
 
@@ -102,7 +102,7 @@ export LD_LIBRARY_PATH="/usr/local/cuda-12.2/lib64:$LD_LIBRARY_PATH"
 
 `nvcc -V`
 
-### uninstall 
+## uninstall 
 
 ```
 cd /usr/local/cuda-xx.x/bin/
@@ -141,9 +141,9 @@ sudo rm -rf /usr/lib/x86_64-linux-gnu/libcudnn*
 ```
 
 
-## python
+# python
 
-### torch
+## torch
 
 cuda 12.2
 
