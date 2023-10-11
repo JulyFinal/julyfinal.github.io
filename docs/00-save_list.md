@@ -3,7 +3,7 @@
 title: 收藏清单
 date: 2023/9/26
 author: Final
-tags: [收藏] [书籍]
+tags: [save, book]
 
 ---
 
