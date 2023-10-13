@@ -11,4 +11,5 @@
 * [06-life.md](06-life.md)
 * [07-txt2epub.md](07-txt2epub.md)
 * [08-nix_note.md](08-nix_note.md)
+* [09-python_note.md](09-python_note.md)
 * [bookmarks.md](bookmarks.md)
