@@ -14,3 +14,4 @@
 
 * `itertools.batched` Batch data from the iterable into tuples of length n. The last batch may be shorter than n. [示例](https://docs.python.org/3.12/library/itertools.html#itertools.batched)
 
+## 
