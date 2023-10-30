@@ -1,7 +1,60 @@
+# bookmark
+
+# Personal
+
+## TV
+
+* [电视资源](https://iptvindex.com)
+
+## Game
+
+* [WeMod](https://www.wemod.com/zh)
+
+## English
 
 
-## bookmark
+# work
 
+## Data
+
+## PDF
+
+* [PDF 24 工具](https://tools.pdf24.org/zh/)
+
+## Windows
+
+* [windows优化](https://github.com/hellzerg/optimizer)
+
+# Dev
+
+## Linux
+
+
+## Software
+
+* [免费工具目录](https://free-for.dev/#/)
+
+### Arch
+
+* [archlinuxstudio](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)
+
+### Game
+
+* [Linux游戏站](https://www.linuxgame.cn/)
+* [winegame](https://winegame.net/games/world-of-tanks/)
+
+## learning code
+
+* [learnxinyminutes](https://learnxinyminutes.com/)
+
+## Docker
+
+### Operator
+
+* [operatorhub](https://operatorhub.io/)
+* [artifacthub](https://artifacthub.io/)
+
+## NSFW
 * [AVOHAYO](http://avohayo.blog.fc2.com)
 * [CG GalGame](http://h723.blog.fc2.com)
 * [141JJ](https://141jj.com)
@@ -14,3 +67,6 @@
 * [MissAV](https://missav.com/cn)
 * [iAV](https://aiav.app/zh)
 * [紳士漫畫-專註分享漢化本子|邪惡漫畫](https://www.wnacg.com/index.php)
+* [ASMR Online](https://asmr.one/works)
+
+
