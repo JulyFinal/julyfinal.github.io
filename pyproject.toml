@@ -1,0 +1,26 @@
+[project]
+name = "julyfinal-github-io"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "julyfinal", email = "julyfinal@outlook.com" }
+]
+dependencies = [
+    "RSS-OPML-to-Markdown>=0.0.7",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.rye.scripts]
+opml2markdown = "rss_opml_to_markdown"
+
+[tool.hatch.metadata]
+allow-direct-references = true
